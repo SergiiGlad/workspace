@@ -1,0 +1,24 @@
+package main
+
+import (
+	"fmt"
+)
+
+
+func main() {
+
+	// source matrix
+	matrix := [][]int{{1, 2, 3, 4, 5},
+		{1, 2, 3, 4, 5},
+		{1, 2, 3, 4, 5},
+		{1, 2, 3, 4, 5},
+	}
+
+
+}
+
+func Matrix_Revers(matrix [][]int) {
+	//
+}
+
+
